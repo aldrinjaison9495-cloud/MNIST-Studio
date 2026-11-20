@@ -32,14 +32,15 @@ View top predictions
 
 ## Screenshots
 -----------------------
-### Home Page
+Home Page
 -------
 ![Home Page](screenshots/home.png)
-### Prediction
+
+Prediction
 ------
 ![Prediction](screenshots/prediction.png)
 
-## Demo Video
+Demo Video
 -------
 [Watch MNIST Studio Demo](demo/mnist-demo.mp4)
 
@@ -48,11 +49,11 @@ View top predictions
 ------------
 git clone https://github.com/aldrinjaison9495-cloud/MNIST-Studio.git cd MNIST-Studio pip install -r requirements.txt 
 
-Run the Application
+## Run the Application
 ----------------------
 streamlit run app.py 
 
-Project Structure
+## Project Structure
 ------------------
 MNIST-Studio/ │ ├── app.py ├── cnn_model.keras ├── requirements.txt ├── README.md └── .gitignore 
 
