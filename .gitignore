@@ -1,0 +1,9 @@
+.venv/
+.venv_new/
+.venv312/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+.streamlit/secrets.toml
